@@ -75,7 +75,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://www.linkedin.com/"
+                href="www.linkedin.com/in/kelvin-gichuki-285014433"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
