@@ -47,7 +47,7 @@ const socials = [
   {
     name: "LinkedIn",
     icon: FaLinkedinIn,
-    href: "www.linkedin.com/in/kelvin-gichuki-285014433",
+    href: "www.linkedin.com/in/kelvin-gichuki-402b0a437",
   },
   {
     name: "WhatsApp",

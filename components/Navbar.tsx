@@ -75,7 +75,7 @@ export default function Navbar() {
 
           {/* LINKEDIN */}
           <a
-            href="https://www.linkedin.com/"
+            href="www.linkedin.com/in/kelvin-gichuki-402b0a437"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
